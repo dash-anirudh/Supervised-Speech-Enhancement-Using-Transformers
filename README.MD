@@ -23,4 +23,4 @@ Traditional methods like spectral subtraction and Wiener filtering fail in low-S
 - Gaurang Dahad
 - Sohal Malviya
 
-This project was completed as a part of the Deep Learning course project, under the guidance of [Dr. Sumohana S. Channappayya](https://people.iith.ac.in/sumohana/)
+This work was completed as a part of the Deep Learning course project, under the guidance of [Dr. Sumohana S. Channappayya](https://people.iith.ac.in/sumohana/)
