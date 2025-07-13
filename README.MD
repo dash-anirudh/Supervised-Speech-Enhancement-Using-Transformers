@@ -1,6 +1,6 @@
 # Supervised Speech Enhancement using Transformers
 
-This project implements supervised speech denoising using deep learning. It compares:
+This project implements supervised speech enhancement using modern deep learning frameworks. It compares:
 - A **CNN-based convolutional autoencoder**
 - A hybrid **CNN + Transformer** architecture
 
@@ -18,4 +18,9 @@ Traditional methods like spectral subtraction and Wiener filtering fail in low-S
 - 10,000+ clean-noisy speech pairs (16 kHz)
 - Contains various noise types: white noise, babble, street noise, etc.
 
+### Collaborators
+- Satvik Bejugam
+- Gaurang Dahad
+- Sohal Malviya
 
+This project was completed as a part of the Deep Learning course project, under the guidance of [Dr. Sumohana S. Channappayya](https://people.iith.ac.in/sumohana/)
